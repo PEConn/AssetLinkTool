@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b5b3f1f010ee06bf88e74cf4b2cbf0b8/appcompat-1.0.2/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        }
+    ]
+}

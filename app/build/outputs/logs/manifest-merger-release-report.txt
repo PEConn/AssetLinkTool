@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b5b3f1f010ee06bf88e74cf4b2cbf0b8/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e477a2ba983e4f052c62a8eaa557986b/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b800b01c725441d4d9c4674913e15a3f/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/9b7490411915d3f5abb061a00bf5c1ab/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f06a67a774382b841fe7d93113024df3/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/232b8a6e10e667eb0ced14cce0fee4b6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/897c58884a786f88d3e5ee4ce04dedbf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/435f37585f40eb1aa6243527ce30fbda/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dd71738cb562643af8129a7e2b02d733/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/a90f9e539dd877ccd125cdee646e652e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/bdb6d227fb4da0bd2b7e283ed74a2b81/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/1c97977efc3d5536922db7c4c2d3dbfa/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/aefd02b7de0dd4d8fe31c44de7de3bdc/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dc7a640de23110856d6913099a78b7c9/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/72177171cf16b101ee3fedd6ccc8348c/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/eec39076cdfbc901b16e73f07165e6bb/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e1ccb68f9f6a545a7cb205a44a6d9e99/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f2744e8b6b44d8749db64d8a87c6a09e/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/7bf0d4c42701986b847558e04fc1f633/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b24a4af5334a1673517c8b1a76f7c74e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dbe83b24ef1857092bc169ebb975a77c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e19f549f4d33183f40aadd39487d60be/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/ae976d2f8b2937f0bb390a4d3ca85215/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/cd5330d63fb389cef17fd5d4261682bc/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/8381d0a86d45a9afd60ba34142102483/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e774ceed7cb17676be174caa80b7bf5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e30b45bbe0cd36dd214baab8df78ad7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/0ea33a95c25d62106756d2ee4afb24ff/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:3:58-91
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:5:5-33:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b800b01c725441d4d9c4674913e15a3f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b800b01c725441d4d9c4674913e15a3f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e1ccb68f9f6a545a7cb205a44a6d9e99/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e1ccb68f9f6a545a7cb205a44a6d9e99/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f2744e8b6b44d8749db64d8a87c6a09e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f2744e8b6b44d8749db64d8a87c6a09e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e1ccb68f9f6a545a7cb205a44a6d9e99/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:8:13-45
+	tools:ignore
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:11:45-84
+	android:roundIcon
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:11:13-44
+activity#dev.conn.assetlinkstool.PackageDetailsActivity
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:13:9-14:20
+	android:name
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:13:19-57
+activity#dev.conn.assetlinkstool.PackageListActivity
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:16:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:20:27-74
+provider#androidx.core.content.FileProvider
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:grantUriPermissions
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:26:13-71
+	android:exported
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:25:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:29:13-31:53
+	android:resource
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:31:17-50
+	android:name
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml:30:17-67
+uses-sdk
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b5b3f1f010ee06bf88e74cf4b2cbf0b8/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b5b3f1f010ee06bf88e74cf4b2cbf0b8/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e477a2ba983e4f052c62a8eaa557986b/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e477a2ba983e4f052c62a8eaa557986b/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b800b01c725441d4d9c4674913e15a3f/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b800b01c725441d4d9c4674913e15a3f/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/9b7490411915d3f5abb061a00bf5c1ab/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/9b7490411915d3f5abb061a00bf5c1ab/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f06a67a774382b841fe7d93113024df3/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f06a67a774382b841fe7d93113024df3/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/232b8a6e10e667eb0ced14cce0fee4b6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/232b8a6e10e667eb0ced14cce0fee4b6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/897c58884a786f88d3e5ee4ce04dedbf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/897c58884a786f88d3e5ee4ce04dedbf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/435f37585f40eb1aa6243527ce30fbda/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/435f37585f40eb1aa6243527ce30fbda/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dd71738cb562643af8129a7e2b02d733/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dd71738cb562643af8129a7e2b02d733/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/a90f9e539dd877ccd125cdee646e652e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/a90f9e539dd877ccd125cdee646e652e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/bdb6d227fb4da0bd2b7e283ed74a2b81/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/bdb6d227fb4da0bd2b7e283ed74a2b81/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/1c97977efc3d5536922db7c4c2d3dbfa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/1c97977efc3d5536922db7c4c2d3dbfa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/aefd02b7de0dd4d8fe31c44de7de3bdc/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/aefd02b7de0dd4d8fe31c44de7de3bdc/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dc7a640de23110856d6913099a78b7c9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dc7a640de23110856d6913099a78b7c9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/72177171cf16b101ee3fedd6ccc8348c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/72177171cf16b101ee3fedd6ccc8348c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/eec39076cdfbc901b16e73f07165e6bb/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/eec39076cdfbc901b16e73f07165e6bb/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e1ccb68f9f6a545a7cb205a44a6d9e99/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e1ccb68f9f6a545a7cb205a44a6d9e99/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f2744e8b6b44d8749db64d8a87c6a09e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/f2744e8b6b44d8749db64d8a87c6a09e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/7bf0d4c42701986b847558e04fc1f633/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/7bf0d4c42701986b847558e04fc1f633/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b24a4af5334a1673517c8b1a76f7c74e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b24a4af5334a1673517c8b1a76f7c74e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dbe83b24ef1857092bc169ebb975a77c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/dbe83b24ef1857092bc169ebb975a77c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e19f549f4d33183f40aadd39487d60be/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e19f549f4d33183f40aadd39487d60be/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/ae976d2f8b2937f0bb390a4d3ca85215/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/ae976d2f8b2937f0bb390a4d3ca85215/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/cd5330d63fb389cef17fd5d4261682bc/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/cd5330d63fb389cef17fd5d4261682bc/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/8381d0a86d45a9afd60ba34142102483/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/8381d0a86d45a9afd60ba34142102483/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e774ceed7cb17676be174caa80b7bf5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e774ceed7cb17676be174caa80b7bf5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e30b45bbe0cd36dd214baab8df78ad7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/e30b45bbe0cd36dd214baab8df78ad7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/0ea33a95c25d62106756d2ee4afb24ff/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/0ea33a95c25d62106756d2ee4afb24ff/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/src/main/AndroidManifest.xml

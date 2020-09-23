@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Asset Links Tool</string>
+    <string name="filter_hint">Filter packages</string>
+    <string name="share_signature">Share Signature</string>
+    <string name="copy_signature">Copy Signature</string>
+    <string name="share_asset_link">Share Asset Link</string>
+    <string name="copy_asset_link">Copy Asset Link</string>
+    <string name="example_asset_link">
+        [\
+        \t{\
+        \t\t\"relation\": [\"delegate_permission/common.handle_all_urls\"],\
+        \t\t\t\"target\": {\
+        \t\t\t\t\"namespace\": \"android_app\",\
+        \t\t\t\t\"package_name\": \"com.peter.trustedpetersactivity\",\
+        \t\t\t\t\"sha256_cert_fingerprints\": [\
+        \t\t\t\t\"B5:7D:59:28:8E:F8:A3:CB:CC:B4:DF:F4:C8:91:AF:E0:B2:84:EF:FF:F5:C8:A8:87:A6:34:38:1F:EF:2C:39:AE\"\
+        \t\t\t]\
+        \t\t}\
+        \t}\
+        ]
+    </string>
+    <string name="package_name_label">Package Name:</string>
+    <string name="package_signature_label">Package Signature:</string>
+    <string name="digital_asset_link_label">Digital Asset Link:</string>
+</resources>
