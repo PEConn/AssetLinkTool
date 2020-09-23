@@ -1,4 +1,0 @@
-#Thu Aug 08 16:12:29 BST 2019
-base.0=/usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/build/intermediates/transforms/r8/release/0/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

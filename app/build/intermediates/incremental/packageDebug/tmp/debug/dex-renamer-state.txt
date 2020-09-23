@@ -1,4 +1,0 @@
-#Wed Sep 23 13:08:55 BST 2020
-base.0=/home/peconn/github/AssetLinkTool/app/build/intermediates/dex/debug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
