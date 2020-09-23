@@ -38,7 +38,7 @@ class PackageDetailsActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.package_details_activity)
 
-        val packageName = intent.getStringExtra(EXTRA_KEY_PACKAGE)
+        val packageName = intent.getStringExtra(EXTRA_KEY_PACKAGE)!!
         packageNameTextView.setText(packageName)
 
         val packageSignature = getCertificateSHA256FingerprintForPackage(packageName)
@@ -131,7 +131,7 @@ class PackageDetailsActivity : AppCompatActivity() {
 
     fun addToClipboard(data: String) {
         val manager = getSystemService(CLIPBOARD_SERVICE) as ClipboardManager
-        manager.primaryClip = ClipData.newPlainText("Source Test", data)
+        manager.setPrimaryClip(ClipData.newPlainText("Source Test", data))
         Toast.makeText(this, "Copied to clipboard", Toast.LENGTH_SHORT).show()
     }
 

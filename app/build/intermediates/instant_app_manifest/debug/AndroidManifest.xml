@@ -2,12 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="dev.conn.assetlinkstool"
     android:targetSandboxVersion="2"
-    android:versionCode="3"
-    android:versionName="0.8.1" >
+    android:versionCode="4"
+    android:versionName="0.8.2" >
 
     <uses-sdk
         android:minSdkVersion="19"
-        android:targetSdkVersion="28" />
+        android:targetSdkVersion="30" />
 
     <application
         android:allowBackup="true"

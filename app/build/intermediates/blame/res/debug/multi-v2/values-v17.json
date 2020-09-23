@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/usr/local/google/home/peconn/AndroidStudioProjects/AssetLinksTool/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/home/peconn/github/AssetLinkTool/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/usr/local/google/home/peconn/.gradle/caches/transforms-2/files-2.1/b5b3f1f010ee06bf88e74cf4b2cbf0b8/appcompat-1.0.2/res/values-v17/values-v17.xml",
+                    "source": "/home/peconn/.gradle/caches/transforms-2/files-2.1/1ae9f27ebb7ae4a54b00cf4b306574aa/appcompat-1.0.2/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
